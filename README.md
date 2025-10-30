@@ -20,12 +20,13 @@ Detect abnormal build durations or failures using real-time data from CI/CD pipe
 - If so, it flags an anomaly and fails the CI job.
 - Metrics are updated automatically after each run.
 
-## 📸 Project Screenshots
+## 📸 Screenshots
 
-### 🧠 Build Results
-![Build Results](./outputs/Build_results.jpeg)
+### 🧠 Build Execution
+![Build Screenshot](https://github.com/Vaishnavi6699/Real-time-anamoly-detection/blob/main/build.jpg?raw=true)
 
 ### 📊 Metrics Visualization
-![Metrics](./outputs/Metrics.jpeg)
+![Metrics Visualization](https://github.com/Vaishnavi6699/Real-time-anamoly-detection/blob/main/metrics.jpg?raw=true)
+
 
 
