@@ -1,0 +1,12 @@
+[
+    {
+        "timestamp": "2025-10-30 10:57:20",
+        "duration": 3.7895868543267985,
+        "success": false
+    },
+    {
+        "timestamp": "2025-10-30 11:14:48",
+        "duration": 3.7919063941234583,
+        "success": true
+    }
+]
