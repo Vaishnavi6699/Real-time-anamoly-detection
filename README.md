@@ -23,9 +23,9 @@ Detect abnormal build durations or failures using real-time data from CI/CD pipe
 ## 📸 Project Screenshots
 
 ### 🧠 Build Results
-![Build Results](outputs/Build_results.jpeg)
+![Build Results](./outputs/Build_results.jpeg)
 
 ### 📊 Metrics Visualization
-![Metrics](outputs/Metrics.jpeg)
+![Metrics](./outputs/Metrics.jpeg)
 
 
