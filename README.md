@@ -20,6 +20,11 @@ Detect abnormal build durations or failures using real-time data from CI/CD pipe
 - If so, it flags an anomaly and fails the CI job.
 - Metrics are updated automatically after each run.
 
-## ✅ Outcome
-- Demonstrates DevOps + ML integration.
-- Practical for intelligent CI/CD monitoring.
+## 📸 Project Screenshots
+
+### 🧠 Build Results
+![Build Results](outputs/Build_results.jpeg)
+
+### 📊 Metrics Visualization
+![Metrics](outputs/Metrics.jpeg)
+
