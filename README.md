@@ -10,6 +10,7 @@ Detect abnormal build durations or failures using real-time data from CI/CD pipe
    python app/main.py
    python scripts/anomaly_detector.py
    python scripts/update_metrics.py
+   python scripts/visualize_metrics.py
    ```
 3. Push to GitHub → check Actions tab.
 
